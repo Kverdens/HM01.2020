@@ -1,6 +1,8 @@
-.my box {
-    border: 5px;
-    border-style: initial;
-    border-color: lawngreen;
-    border-bottom-left-radius: inherit;
+
+body {background-color: powderblue;
+font: Verdana;
 }
+h1   {color: darkgreen;}
+h2{color: darkgreen}
+p    {color: black;}
+a {color: rebeccapurple}
