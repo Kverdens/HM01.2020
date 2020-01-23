@@ -1,0 +1,6 @@
+.my box {
+    border: 5px;
+    border-style: initial;
+    border-color: lawngreen;
+    border-bottom-left-radius: inherit;
+}
